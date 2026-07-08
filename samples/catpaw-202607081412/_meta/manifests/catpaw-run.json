@@ -21,7 +21,6 @@
   "project_key_map": {
     "ided--Project-OpenSourceFramwork-cc-src_2026-03-31(1)": "ided--Project-OpenSourceFramwork-cc-src_2026-03-31(1)",
     "ided--Project-sami-AgentCollabInsight": "ided--Project-sami-AgentCollabInsight",
-    "ided--Project-sami-airia-product-design-tools-repo": "ided--Project-sami-airia-product-design-tools-repo",
     "ided--Project-<org>-content_system_explore": "ided--Project-<org>-content_system_explore",
     "ided--Project-<org>-<platform-name>": "ided--Project-<org>-<platform-name>",
     "ided--Project-<org>-<project-name>": "ided--Project-<org>-<project-name>",
@@ -37,10 +36,6 @@
     "ided--Project-sami-AgentCollabInsight": {
       "sessions": 6,
       "turns": 50
-    },
-    "ided--Project-sami-airia-product-design-tools-repo": {
-      "sessions": 1,
-      "turns": 1
     },
     "ided--Project-<org>-content_system_explore": {
       "sessions": 1,

@@ -44,7 +44,6 @@
 |---|---|---:|---:|
 | ided--Project-OpenSourceFramwork-cc-src_2026-03-31(1) | `ided--Project-OpenSourceFramwork-cc-src_2026-03-31(1)` | 1 | 1 |
 | ided--Project-sami-AgentCollabInsight | `ided--Project-sami-AgentCollabInsight` | 6 | 50 |
-| ided--Project-sami-airia-product-design-tools-repo | `ided--Project-sami-airia-product-design-tools-repo` | 1 | 1 |
 | ided--Project-<org>-content_system_explore | `ided--Project-<org>-content_system_explore` | 1 | 2 |
 | ided--Project-<org>-<platform-name> | `ided--Project-<org>-<platform-name>` | 2 | 3 |
 | ided--Project-<org>-<project-name> | `ided--Project-<org>-<project-name>` | 16 | 181 |

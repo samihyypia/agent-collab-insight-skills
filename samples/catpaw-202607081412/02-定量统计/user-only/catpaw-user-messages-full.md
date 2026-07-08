@@ -56,7 +56,6 @@
 | ided--Project-<org>-langgraph_demo | 6 |
 | ided--Project-<org>-<platform-name> | 2 |
 | ided--Project-OpenSourceFramwork-cc-src_2026-03-31(1) | 1 |
-| ided--Project-sami-airia-product-design-tools-repo | 1 |
 | ided--Project-<org>-content_system_explore | 1 |
 | ided--Project-<org>-langgraph_demo-zhipu3 | 1 |
 
