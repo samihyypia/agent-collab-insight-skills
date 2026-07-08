@@ -1,0 +1,18 @@
+user:
+<user_query>
+/speckit-plan Build a small API and keep the tasks in Chinese.
+</user_query>
+assistant: I will inspect the repo and draft a plan.
+[Tool call] read_file
+path: README.md
+[Tool result] read_file
+README content
+assistant: Plan ready.
+user:
+<user_query>
+The SSE endpoint still fails. Here is the curl error.
+</user_query>
+[Tool call] run_terminal_cmd
+curl http://localhost/events
+[Tool result] run_terminal_cmd
+500 internal server error

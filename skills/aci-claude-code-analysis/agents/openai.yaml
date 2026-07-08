@@ -1,0 +1,4 @@
+interface:
+  display_name: "ACI Claude Code Analysis"
+  short_description: "Analyze Claude Code CLI and SDK sessions with ACI."
+  default_prompt: "Use $aci-claude-code-analysis to analyze local Claude Code sessions into .aci outputs."

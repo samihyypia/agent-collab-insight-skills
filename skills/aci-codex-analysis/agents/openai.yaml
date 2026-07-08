@@ -1,0 +1,4 @@
+interface:
+  display_name: "ACI Codex Analysis"
+  short_description: "Analyze Codex session JSONL with the portable ACI workflow."
+  default_prompt: "Use $aci-codex-analysis to analyze local Codex sessions into .aci outputs."

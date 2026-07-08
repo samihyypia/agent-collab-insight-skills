@@ -1,0 +1,4 @@
+interface:
+  display_name: "ACI Analysis"
+  short_description: "Portable local analysis for AI coding assistant transcripts."
+  default_prompt: "Use $aci-analysis to analyze local AI coding assistant transcripts into .aci outputs."

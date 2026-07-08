@@ -1,0 +1,4 @@
+{"type":"message","timestamp":"2026-07-07T04:00:00Z","message":{"role":"user","content":[{"type":"input_text","text":"<system-reminder>workspace context</system-reminder><user_query>@skill:ardot-design-assistant Create an HTML prototype for onboarding.</user_query>"}]}}
+{"type":"message","message":{"role":"assistant","content":[{"type":"output_text","text":"I will create the prototype."},{"type":"function_call","name":"Write","input":{"path":"index.html"}}]}}
+{"type":"function_call_result","name":"Write","output":{"text":"ok"}}
+{"type":"message","timestamp":"2026-07-07T04:03:00Z","message":{"role":"user","content":[{"type":"input_text","text":"<user_query>Server returned 500, retry after fixing the service check.</user_query>"}]}}

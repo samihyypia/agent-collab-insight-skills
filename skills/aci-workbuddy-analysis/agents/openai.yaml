@@ -1,0 +1,4 @@
+interface:
+  display_name: "ACI WorkBuddy Analysis"
+  short_description: "Analyze WorkBuddy JSONL sessions with the portable ACI workflow."
+  default_prompt: "Use $aci-workbuddy-analysis to analyze local WorkBuddy sessions into .aci outputs."

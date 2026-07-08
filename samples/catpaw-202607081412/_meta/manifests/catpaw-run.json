@@ -1,0 +1,138 @@
+{
+  "source": "catpaw",
+  "requested_source": "catpaw",
+  "run_id": "catpaw-202607081412",
+  "run_started_at": "2026-07-08T14:12:45",
+  "input": "C:\\Users\\<user>\\.catpaw\\projects",
+  "output_root": "<workspace>\\pm_explore\\.aci",
+  "run_root": "<workspace>\\pm_explore\\.aci\\catpaw-202607081412",
+  "stages": [
+    "ingest",
+    "packet",
+    "quantitative"
+  ],
+  "modes": [
+    "user-only"
+  ],
+  "project_count": 2,
+  "typical_count": 2,
+  "sessions": 50,
+  "turns": 365,
+  "project_key_map": {
+    "ided--Project-OpenSourceFramwork-cc-src_2026-03-31(1)": "ided--Project-OpenSourceFramwork-cc-src_2026-03-31(1)",
+    "ided--Project-sami-AgentCollabInsight": "ided--Project-sami-AgentCollabInsight",
+    "ided--Project-sami-airia-product-design-tools-repo": "ided--Project-sami-airia-product-design-tools-repo",
+    "ided--Project-<org>-content_system_explore": "ided--Project-<org>-content_system_explore",
+    "ided--Project-<org>-<platform-name>": "ided--Project-<org>-<platform-name>",
+    "ided--Project-<org>-<project-name>": "ided--Project-<org>-<project-name>",
+    "ided--Project-<org>-langgraph_demo": "ided--Project-<org>-langgraph_demo",
+    "ided--Project-<org>-langgraph_demo-zhipu2": "ided--Project-<org>-langgraph_demo-zhipu2",
+    "ided--Project-<org>-langgraph_demo-zhipu3": "ided--Project-<org>-langgraph_demo-zhipu3"
+  },
+  "projects": {
+    "ided--Project-OpenSourceFramwork-cc-src_2026-03-31(1)": {
+      "sessions": 1,
+      "turns": 1
+    },
+    "ided--Project-sami-AgentCollabInsight": {
+      "sessions": 6,
+      "turns": 50
+    },
+    "ided--Project-sami-airia-product-design-tools-repo": {
+      "sessions": 1,
+      "turns": 1
+    },
+    "ided--Project-<org>-content_system_explore": {
+      "sessions": 1,
+      "turns": 2
+    },
+    "ided--Project-<org>-<platform-name>": {
+      "sessions": 2,
+      "turns": 3
+    },
+    "ided--Project-<org>-<project-name>": {
+      "sessions": 16,
+      "turns": 181
+    },
+    "ided--Project-<org>-langgraph_demo": {
+      "sessions": 6,
+      "turns": 9
+    },
+    "ided--Project-<org>-langgraph_demo-zhipu2": {
+      "sessions": 16,
+      "turns": 117
+    },
+    "ided--Project-<org>-langgraph_demo-zhipu3": {
+      "sessions": 1,
+      "turns": 1
+    }
+  },
+  "selected_projects": [
+    "ided--Project-<org>-<project-name>",
+    "ided--Project-<org>-langgraph_demo-zhipu2"
+  ],
+  "structured": [
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\17f98954-dbbc-42e8-a7e5-e1630a5104f3.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\0512e7dd-b428-4191-8c3a-712a39295a6e.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\11171db2-5365-4e62-bacf-82cdbeb1c82b.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\7fe1c36c-9c36-4bf4-9b8e-12ac274514e7.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\a5572949-ac82-4ddb-8f2a-384745ceaaf2.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\a6d284c5-4791-45a9-91c5-f560e668ff50.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\b3c8d3fa-e11a-4239-9510-010f520473c3.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\f6b21342-c074-48d4-bd0b-c81c899464b9.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\dec8cac1-54d3-4b7e-a31d-03ab5137e16c.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\56cf285a-94b6-4f29-a525-698f70c55d0f.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\5b1ff90f-744a-4b79-8247-f13df41a022e.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\16354e3d-0ddd-45ab-86d6-a7998a06811c.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\19537f4d-b72b-45ee-9cec-913d9d147386.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\1b951b7d-70ca-4a42-b0f4-7a8a207b653e.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\2d0b80ea-186f-4bd9-acd7-a54473e11bc9.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\36e83d99-8cb9-455a-93dc-90f6b19471ce.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\4b493ce9-d0cb-4638-a40b-2ad4ddc65c88.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\78d3fd7c-f288-467e-973b-1ef504bc10e6.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\93c2f80a-e66c-4aa5-8a1b-f3095deffd1b.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\9c8a3a8c-ea91-44ec-85c0-7b706d3169e7.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\ab70db3b-da70-473e-84d6-f1f116611cc3.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\c59b758c-599e-48eb-80c2-06a2ff6c8988.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\da042cb1-5b89-4ee7-9778-23eec3b6c2f8.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\e0431614-af69-4d11-9e4e-e2df6bd0980b.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\e6359dc7-284e-47e6-b3b2-d71fa405c699.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\f1c55b0c-f8df-43f7-82ba-eac166aa45e0.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\f7cccc94-2de0-47e3-b226-fad9dd207545.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\7f8846ae-df9e-4b96-84de-15cb1c0f5e84.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\82b2c368-6484-4f59-99ad-85be7719286a.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\86c81b95-081e-4572-9dc0-4cc7f1fcb4fd.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\ae88395c-df68-4b92-847f-552c45a493fa.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\de6687a8-ec14-4fdc-b3a3-718ccef320ef.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\fc3c321e-8e64-4525-9620-4fb4414bfe72.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\1a2afebf-13b2-4b4e-a63f-fcae23a4184a.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\225ae7d5-b46f-4bfb-a322-8849c83b4867.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\228b826e-499a-47b8-a700-c8c3a5474287.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\262173df-af5a-45ca-b051-e73ef199f910.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\34e0417c-62b9-4ac8-bbc1-5b7e29584f20.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\35dd29b1-ebc7-4702-9ba8-b2f0c168543c.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\4086215e-0a73-4920-adc0-5f1495edf3d0.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\4b6d0e85-6c20-4e61-adb2-1b1d13da4532.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\8d43f424-01dd-40e5-8e0d-18b54738ee25.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\a34a69be-5d97-419b-a263-b797c82f9b8d.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\b3595cad-af16-4c14-9af1-db362e6c584a.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\b92b8e87-381f-4647-a1ae-e6a860b1c56e.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\bc129711-ca7b-4cc2-a1de-6ec0eebfde50.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\e1941964-b34d-4a32-ad1a-a2f4504df60e.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\e4518fa1-a28d-4d14-8ca4-be1df1a178b7.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\f5f74c35-96c1-4c4a-a134-d0a94cd13f2b.json",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\01-数据归一化\\user-only\\795870cc-ecf0-4716-b301-4032090c724c.json"
+  ],
+  "reports": [
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\02-定量统计\\user-only\\catpaw-user-messages-full.md"
+  ],
+  "packets": [
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\03-分析材料包\\catpaw-analysis-packet.md",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\03-分析材料包\\catpaw-project-ided--Project-<org>-<project-name>-packet.md",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\03-分析材料包\\catpaw-project-ided--Project-<org>-langgraph_demo-zhipu2-packet.md",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\03-分析材料包\\catpaw-session-da042cb1-5b89-4ee7-9778-23eec3b6c2f8-packet.md",
+    "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\03-分析材料包\\catpaw-session-f5f74c35-96c1-4c4a-a134-d0a94cd13f2b-packet.md"
+  ],
+  "errors": [],
+  "packet": "<workspace>\\pm_explore\\.aci\\catpaw-202607081412\\03-分析材料包\\catpaw-analysis-packet.md"
+}

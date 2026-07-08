@@ -1,0 +1,4 @@
+interface:
+  display_name: "ACI CatPaw Analysis"
+  short_description: "Analyze CatPaw transcript data with the portable ACI workflow."
+  default_prompt: "Use $aci-catpaw-analysis to analyze local CatPaw transcripts into .aci outputs."
