@@ -73,3 +73,10 @@ full 模式只在用户显式指定时额外写入对应 `full/` 目录。
 - Codex：使用 `$aci-codex-analysis`
 - Claude Code CLI/SDK：使用 `$aci-claude-code-analysis`
 - WorkBuddy：使用 `$aci-workbuddy-analysis`
+
+
+## 使用须知
+
+- 本工具仅限分析用户本人拥有的对话日志。分析他人数据前必须获得数据所有者的明确授权，并遵守《个人信息保护法》《数据安全法》等适用法律法规。
+- `.aci` 产物（含 user-only 模式）可能包含对话中的敏感信息（业务逻辑、代码片段、文件路径等），共享前请确认已脱敏。
+- 未经授权分析他人数据可能构成违法行为，由使用者承担全部法律责任。详见项目 README 中的「使用条款与免责声明」。
